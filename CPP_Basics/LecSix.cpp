@@ -37,7 +37,7 @@ int binToDecimal(int binNum){
 
 int main(){
 
-    int decNum = 10;
+    int decNum = 16;
 
     int binNum = 1010;
 
